@@ -2,20 +2,17 @@
 
 import UIKit
 
+// Note: Bring up the emoji keyboard with Command + Control + Spacebar
 
 //Level 1
 //"Create a function called emojis that accepts a string parameter. Depending on the paramter, the function will return a different emoji. The emoji conversion goes as follows:
-//happy -> :)
-//sad -> :(
-//group -> (-_(-_(-_(-_-)_-)_-)_-)
-//happiest -> :D
-//shrugging -> ¯\_(ツ)_/¯
-//sunglasses -> =_=
-//ears -> @(^_^)@
-
-
-
-
+//happy ->🙂
+//sad -> 🙁
+//group -> 😀😋😏😮
+//happiest -> 😀
+//in love -> 😍
+//sunglasses -> 😎
+//ears -> 👂👂
 
 
 
@@ -54,7 +51,7 @@ import UIKit
 
 //------------------------------------------------------------------------------------------------
 //Level 3
-//If the parameter doesn't match up with the list of options, pick a random element and return that value.
+//If the parameter doesn't match up with the list of options, pick a random emoji and return that value.
 //You can read about generating random values here: http://stackoverflow.com/a/24052491/5438610
 
 
